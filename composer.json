@@ -1,0 +1,26 @@
+{
+	"name": "balancer/bors-dev-hxprof",
+	"description": "XHProf support for BORS©",
+
+	"authors": [
+		{ "name": "Balancer", "email": "balancer@balancer.ru" }
+	],
+
+	"support": {
+		"issues": "https://bitbucket.org/Balancer/bors-core/issues",
+		"forum": "http://www.balancer.ru/support/viewforum.php?id=60",
+		"source": "https://bitbucket.org/Balancer/bors-ext"
+	},
+
+	"require": {
+		"balancer/bors-core": "*",
+		"balancer/bors-admin": "*",
+		"lox/xhprof": "@dev"
+	},
+
+	"autoload": {
+		"psr-4": {
+			"B2\\Admin\XHProf": "src/"
+		}
+	}
+}
