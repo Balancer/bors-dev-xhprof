@@ -22,5 +22,11 @@
 		"psr-4": {
 			"B2\\Admin\\XHProf\\": "src/"
 		}
+	},
+
+	"extra": {
+		"bors-data-admin-debug-links": {
+			'xhprof/': 'XHProf'
+		}
 	}
 }
