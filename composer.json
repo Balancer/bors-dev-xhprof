@@ -26,7 +26,7 @@
 
 	"extra": {
 		"bors-data-admin-debug-links": {
-			'xhprof/': 'XHProf'
+			"xhprof/": "XHProf"
 		}
 	}
 }
