@@ -21,4 +21,5 @@ composer require bors-dev-xhprof
 
 ### Usage
 
-open http://yousite/_bors/admin/reports/xhprof
+open `http://yousite/_bors/admin/debug/xhprof`
+
