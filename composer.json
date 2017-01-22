@@ -1,5 +1,5 @@
 {
-	"name": "balancer/bors-dev-hxprof",
+	"name": "balancer/bors-dev-xhprof",
 	"description": "XHProf support for BORS©",
 
 	"authors": [
